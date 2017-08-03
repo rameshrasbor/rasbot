@@ -1,6 +1,6 @@
-# pandorabots.github.io
+# rasbot.github.io
 
-Welcome to the Pandorabots documentation site! Here you'll find instructions on
+Welcome to the Rasbot documentation site! Here you'll find instructions on
 how to update and maintain the site.
 
 ## Technology colophon
@@ -16,18 +16,8 @@ how to update and maintain the site.
 From the command line:
 
 ```
-$ git clone https://github.com/pandorabots/pandorabots.github.io.git
-$ cd pandorabots.github.io
-$ jekyll serve
-```
-
-This will open the Jekyll development server at
-[localhost:4000](http://localhost:4000). It will also watch your files, so that
-you don't have to rebuild/restart every time you make a change.
-
-> Tip: if you aren't up to date with the remote repository, run `git pull` to
-bring down any changes that you don't yet have. If you don't have any local
-changes you want to integrate, you can just clone the repository as shown above.
+$ git clone https://github.com/rameshrasbor/rasbot.git
+$ cd rasbot.git
 
 ## Pages
 
@@ -47,7 +37,7 @@ piece of content. So for a new "article", go into the _articles directory and
 create a file called "my-article.md".
 
 This will create a new page accessible at
-http://pandorabots.github.io/articles/my-article (the title of the file
+http://rameshrasbor.github.io/articles/my-article (the title of the file
 determines the URL).
 
 Each content file needs to have "Front matter" section to define some properties
